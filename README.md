@@ -1,2 +1,3 @@
-# maemelaWebsite
-Maemela webite
+# maemela Website
+-Maemela webite
+-initialise react app
